@@ -8,10 +8,6 @@
 
 🌱 Currently enhancing my skills in React.js, JavaScript, FastAPI, Python, Git, GitHub, and Oracle Cloud.
 
-🚀 I enjoy creating real-world projects, exploring modern technologies, and continuously improving my problem-solving and development skills.
-
-🤝 Open to Software Developer, Full-Stack Developer, and Internship opportunities where I can learn, contribute, and grow professionally.
-
 ---
 
 ## 💻 Technical Skills
@@ -54,7 +50,7 @@ To build a successful career as a Software Developer by contributing to innovati
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.https://www.linkedin.com/in/pooja-mahesh-733848342/
+- 💼 LinkedIn: https://www.linkedin.com/in/pooja-mahesh-733848342/
 - 📧 Email: poojamahesh359@gmail.com
 
 ⭐ *"Learning never stops. Every project is an opportunity to improve and grow."*
